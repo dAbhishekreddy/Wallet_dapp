@@ -1,3 +1,37 @@
+
+# Advance_EVM_Challenge-4
+# Creating a Smart Wallet
+
+This is a simple implementation of a smart contract wallet with basic functionalities. 
+
+This contains functions to get the balance and address and transfer money from one wallet to another wallet
+
+## hardhat configuration
+
+To run the local node run the following command
+
+```shell
+npx hardhat node
+```
+
+
+To run the test scripts run the following command
+
+```shell
+npx hardhat test
+```
+
+To run the deploy script in local node
+
+```shell
+npx hardhat run scripts/deploy.ts --network localhost
+```
+
+## frontend configuration
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -30,5 +64,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+
+### Author : Abhishek
+
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
