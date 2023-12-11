@@ -1,5 +1,4 @@
-
-# Advance_EVM_Challenge-4
+# Metakrafters Project - 4
 # Creating a Smart Wallet
 
 This is a simple implementation of a smart contract wallet with basic functionalities. 
@@ -27,7 +26,7 @@ To run the deploy script in local node
 npx hardhat run scripts/deploy.ts --network localhost
 ```
 
-## frontend configuration
+## Frontend configuration
 
 
 
